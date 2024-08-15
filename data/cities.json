@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "San Jose",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-10T23:11:54.410Z",
+      "notes": "Test",
+      "position": {
+        "lat": "37.37015718405753",
+        "lng": "-121.99218750000001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Salt Lake City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-10T23:12:12.871Z",
+      "notes": "123456",
+      "position": {
+        "lat": "40.78054143186033",
+        "lng": "-112.0166015625"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Shaoxing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-09-10T23:48:39.460Z",
+      "notes": "出生",
+      "position": {
+        "lat": "29.99300228455108",
+        "lng": "120.56396484375001"
+      },
+      "id": 3
+    }
+  ]
+}
